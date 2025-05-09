@@ -1,3 +1,4 @@
+import React from 'react';
 import Netflix from '../assets/Images/Netflix_logo.png'
 
 const Header = () => {
